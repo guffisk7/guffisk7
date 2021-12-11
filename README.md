@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @guffisk7
+- 👀 I’m interested in collaborating with new people
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on anything thats exciting
+- 📫 How to reach me guffisk@duck.com
